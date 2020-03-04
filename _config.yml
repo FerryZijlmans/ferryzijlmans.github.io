@@ -1,1 +1,12 @@
 theme: jekyll-theme-hacker
+title: [The title of your blog]
+description: [A short description of your blog's purpose]
+url: ferryzijlmans.github.io
+author:
+  name: Ferry Zijlmans
+  email: ferry.zijlmans@outlook.com
+  url: ferryzijlmans.github.io
+
+paginate: 3
+owner: Ferry Zijlmans
+year: 2020
